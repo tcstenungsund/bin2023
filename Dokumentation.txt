@@ -4,3 +4,7 @@ Dokumentation
 
 Skapat sitemap för gamla hemsidan!
 https://www.gloomaps.com/Mi7nWC9seV
+
+28/2
+
+Bootstrap tema klart, fonter utvalda
