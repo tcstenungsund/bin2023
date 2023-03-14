@@ -8,3 +8,70 @@ https://www.gloomaps.com/Mi7nWC9seV
 28/2
 
 Bootstrap tema klart, fonter utvalda
+
+14/3
+
+» Analys av orignalsidan «
+Definition av content types:
+
+Start (hem):
+Kallelse till årsmöte
+ - Tid
+ - Plats
+ - Brödtext
+ - Hypertexter till formulär och årsrapport
+Oxalsyradag
+ - Tid
+ - Brödtext
+Invintring
+ - Brödtext
+ - Bilder
+Anmäl bikupa till Länsstyrelsen
+ - Bild
+ - Beskrivning
+ - "Anmäl här" knapp
+Varför oss?
+ - Underrubriker
+ - Brödtext
+ - Bilder  
+
+Navbar:
+
+> Startsida (hem)
+
+> Föreningen
+  - Underrubrik
+  - Bilder
+  - Beskrivning
+
+> Bisidor
+  (Dropdown meny)
+  - Bibladet
+    Titel
+    Beskrivning
+    Bilder på olika utgåvor av bibladet
+  - Nyheter
+    Underrubriker
+    Brödtext
+    Rubrik "Inbjudan till Drottning-odlingskurs" 
+    Rubrik "Vår föreningsgård"
+    Brödtext
+    Bilder
+> Mer
+  (Dropdown meny)
+  - Kontakt
+  - Blandat
+  - Läsvärt
+  - Filmer
+  - Aktiviteter
+  - Drottningodling
+  - Länkar
+  - Blanketter
+  - Bilder
+
+Footer
+  - Sociala ikoner
+      Facebook, Email, Twitter
+  - Brödtext
+  
+» «
