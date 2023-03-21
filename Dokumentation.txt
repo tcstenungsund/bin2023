@@ -78,3 +78,17 @@ Footer
 
 Moodboard gjord!
 https://www.canva.com/design/DAFcgptLIpE/ckGbTDX56RlkD5MEKf8zmQ/view?utm_content=DAFcgptLIpE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Allas roller!
+Saga- Dokumnetation
+Arvis- Dokumnetation
+Vera- Projektledare
+Emil- Projektledare
+William- Infrastruktur
+Karl- Infrastruktur
+Linus- Data
+Alexander- Data
+Herman- Designsystem
+Sofie- Designsystem
+Hugo- Verisionshantering
+
