@@ -3,8 +3,15 @@
  * Subtheme specific CSS file for BIN 2023.
  */
 
- .navbar-brand {
+.navbar-brand {
     width: 140px;
     height: 180px;
+}
 
+h1.title {
+    margin-right: 10rem;
+}
+
+.navbar {
+    display: right;
 }
