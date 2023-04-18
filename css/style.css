@@ -1,4 +1,10 @@
 /**
- * @file
- * Subtheme specific CSS.
+ * BIN 2023
+ * Subtheme specific CSS file for BIN 2023.
  */
+
+ .navbar-brand {
+    width: 140px;
+    height: 180px;
+
+}
