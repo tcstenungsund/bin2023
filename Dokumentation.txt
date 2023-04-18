@@ -1,3 +1,101 @@
 Dokumentation
 
 21/2
+
+Skapat sitemap för gamla hemsidan!
+https://www.gloomaps.com/Mi7nWC9seV
+
+28/2
+
+Bootstrap tema klart, fonter utvalda
+
+14/3
+
+» Analys av orignalsidan «
+Definition av content types:
+
+Start (hem):
+Kallelse till årsmöte
+ - Tid
+ - Plats
+ - Brödtext
+ - Hypertexter till formulär och årsrapport
+Oxalsyradag
+ - Tid
+ - Brödtext
+Invintring
+ - Brödtext
+ - Bilder
+Anmäl bikupa till Länsstyrelsen
+ - Bild
+ - Beskrivning
+ - "Anmäl här" knapp
+Varför oss?
+ - Underrubriker
+ - Brödtext
+ - Bilder  
+
+Navbar:
+
+> Startsida (hem)
+
+> Föreningen
+  - Underrubrik
+  - Bilder
+  - Beskrivning
+
+> Bisidor
+  (Dropdown meny)
+  - Bibladet
+    Titel
+    Beskrivning
+    Bilder på olika utgåvor av bibladet
+  - Nyheter
+    Underrubriker
+    Brödtext
+    Rubrik "Inbjudan till Drottning-odlingskurs" 
+    Rubrik "Vår föreningsgård"
+    Brödtext
+    Bilder
+> Mer
+  (Dropdown meny)
+  - Kontakt
+  - Blandat
+  - Läsvärt
+  - Filmer
+  - Aktiviteter
+  - Drottningodling
+  - Länkar
+  - Blanketter
+  - Bilder
+
+Footer
+  - Sociala ikoner
+      Facebook, Email, Twitter
+  - Brödtext
+  
+» «
+
+Moodboard gjord!
+https://www.canva.com/design/DAFcgptLIpE/ckGbTDX56RlkD5MEKf8zmQ/view?utm_content=DAFcgptLIpE&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
+
+Allas roller!
+Saga- Dokumnetation
+Arvid- Dokumnetation
+Vera- Projektledare
+Emil- Projektledare
+William- Infrastruktur
+Karl- Infrastruktur
+Linus- Data
+Alexander- Data
+Herman- Designsystem
+Sofie- Designsystem
+Hugo- Verisionshantering
+
+21/3
+Alexander har börjat identifiera taxonomier
+Heman har gjort klart wireframes
+Vera och William har haft möte med Bossen
+
+28/3
+
