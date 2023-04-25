@@ -101,3 +101,5 @@ Vera och William har haft möte med Bossen
 
 28/3
 
+25/4
+Idag har vi identifierat content types och har lagt in dem i drupal. Vi har också förstått oss på vad taxonomies är. Vi har börjat migrera content till drupal.
