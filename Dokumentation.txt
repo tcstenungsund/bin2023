@@ -103,3 +103,7 @@ Vera och William har haft möte med Bossen
 
 25/4
 Idag har vi identifierat content types och har lagt in dem i drupal. Vi har också förstått oss på vad taxonomies är. Vi har börjat migrera content till drupal.
+
+2/5
+Vera har börjat förbereda användartester i form av ett google forms formulär och eye tracking. 
+Linus Alexander och Hugo har fortasatt föra över data. 
