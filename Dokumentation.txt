@@ -107,3 +107,4 @@ Idag har vi identifierat content types och har lagt in dem i drupal. Vi har ocks
 2/5
 Vera har börjat förbereda användartester i form av ett google forms formulär och eye tracking. 
 Linus Alexander och Hugo har fortasatt föra över data. 
+Vi har gjort ett nytt Bootstrap tema som ska vara inlagt rätt. 
