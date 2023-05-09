@@ -165,6 +165,12 @@ section.region-secondary-menu {
   top: -10;
 }
 
+.img-fluid .d-inline-block .align-top {
+	justify-content: left;
+	width: 250px;
+	height: 150px;
+}
+
 .div-content {
   flex: 50%;
 }
