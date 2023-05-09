@@ -108,3 +108,6 @@ Idag har vi identifierat content types och har lagt in dem i drupal. Vi har ocks
 Vera har börjat förbereda användartester i form av ett google forms formulär och eye tracking. 
 Linus Alexander och Hugo har fortasatt föra över data. 
 Vi har gjort ett nytt Bootstrap tema som ska vara inlagt rätt. 
+
+9/5
+Linus fick färgtemat att fungera genom att ta bort drupals egna colors.css fil. Vi kunde inte fortsätta med användartesterna eftersom Vera inte var med. Fortsätter med data emigrering. 
