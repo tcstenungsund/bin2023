@@ -11,9 +11,8 @@ body {
 	font-family: 'Poppins', sans-serif;
 }
 
-#main-wrapper {
-	min-height: 300px;
-	padding-top: 1rem;
+#navbar-main {
+	size: 0em;
 }
 
 /* Navbar styling */
@@ -28,7 +27,7 @@ body {
 
 #block-bin2023-main-menu ul {
  	flex-flow: row nowrap;
- 	justify-content: center;
+ 	justify-content: right;
 }
 
 #navbar-top {
@@ -60,12 +59,32 @@ body {
 #block-bin2023-account-menu .nav {
 	justify-content: end;
 }
+  
 
-/* Frontpage banner styling */
+/* Menu dropdown items styling */
+.dropdown-item:hover, .dropdown-item.active {
+	background-color: inherit;
+}
+
+.dropdown-item a {
+	text-decoration: none;
+}
+
+.dropdown-item a:hover {
+    color: #04a3ff; 
+	transition: .3s;
+}
+
+
+#block-bin2023-account-menu .nav {
+	justify-content: end;
+}
+
+/* Frontpage banner styling */ 
 .banner {
 	height: 85vh;
 	min-height: 500px;
-	background-image: url('https://imgur.com/JnDHWT0.jpg');
+	background-image: url();
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;
@@ -136,9 +155,14 @@ section.region-secondary-menu {
   margin-bottom: 2rem;
   /*height: 100vh*/
 }
-.div-image {
-  background-image: url("https://imgur.com/JnDHWT0.jpg");
-  flex: 50%;
+.highlighted {
+  background-image: url('https://imgur.com/EyTh8jL.jpg');
+  height: 500px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+  top: -10;
 }
 
 .div-content {
