@@ -166,7 +166,7 @@ section.region-secondary-menu {
 }
 
 .img-fluid .d-inline-block .align-top {
-	justify-content: left;
+	justify-content: center;
 	width: 250px;
 	height: 150px;
 }
