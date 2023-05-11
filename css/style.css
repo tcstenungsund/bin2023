@@ -16,6 +16,17 @@ body {
 }
 
 /* Navbar styling */
+
+#navbar-main {
+	justify-content: right;
+}
+
+.nav-link.nav-link--kontakt {
+	background: rgb(243, 191, 58);
+	border-radius: 8px;
+}
+
+
 #block-bin2023-main-menu .nav-link {
 	color: white;
   	white-space: nowrap;
@@ -113,11 +124,6 @@ body {
  	color: white;
  }
 
-section.region-secondary-menu {
-	display: inline-block;
-	padding-left: 2em;
-}
-
 .navbar-brand img {
 	padding-right: 0.5em;
 	transition: all 0.3s;
@@ -155,7 +161,7 @@ section.region-secondary-menu {
   margin-bottom: 2rem;
   /*height: 100vh*/
 }
-.highlighted {
+.header {
   background-image: url('https://imgur.com/HHx29BP.jpg');
   height: 500px;
   width: 100%;
