@@ -12,7 +12,7 @@ Hur du överför data från stenungsundsbi.se till bin2023.tcstenungsund.se:
 
 6 » Välj vilken sida du vill applicera innehållet på. Exempel: Vill du skapa en nyhet på vår nyhetssida kring Oxalsyredagen? Klicka i så fall på "Nyheter".
 
-7 » Välj en schysst rubrik och lägg klistra in din kopierade text i rutan "Body".
+7 » Välj en schysst rubrik och klistra in din kopierade text i rutan "Body".
 
 8 » Se till att rutan "Published" är ikryssad, för att sedan trycka på save.
 
