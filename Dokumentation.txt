@@ -110,4 +110,4 @@ Linus Alexander och Hugo har fortasatt föra över data.
 Vi har gjort ett nytt Bootstrap tema som ska vara inlagt rätt. 
 
 9/5
-Linus fick färgtemat att fungera genom att ta bort drupals egna colors.css fil. Vi kunde inte fortsätta med användartesterna eftersom Vera inte var med. Fortsätter med data emigrering. 
+Linus fick färgtemat att fungera genom att ta bort drupals egna colors.css fil. Vi kunde inte fortsätta med användartesterna eftersom Vera inte var med. Fortsätter med data migrering. 
