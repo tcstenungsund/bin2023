@@ -111,3 +111,8 @@ Vi har gjort ett nytt Bootstrap tema som ska vara inlagt rätt.
 
 9/5
 Linus fick färgtemat att fungera genom att ta bort drupals egna colors.css fil. Vi kunde inte fortsätta med användartesterna eftersom Vera inte var med. Fortsätter med data migrering. 
+
+16/5
+Vera förebereder användarester. 
+Vi löste färgproblemet genom att byta från CDN till none i vårt subtheme settings 
+
