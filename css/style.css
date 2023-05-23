@@ -72,8 +72,10 @@ body {
 	top: -10;
 }
 
+
+
 .div-content {
-  flex: 50%;
+    flex: 50%;
 }
 
 .content {
@@ -87,7 +89,7 @@ body {
 
 /* Footer */
 .site-footer {
-	background: rgb(220, 231, 56);
+	background: rgb(229, 243, 31);
 	width: 65%;
 	height: auto;
 	background-size: cover;
